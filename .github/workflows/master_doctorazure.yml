@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Doctorazure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BBF367A4B8D4670AA2278B958461638 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FAA23FD493C4DA3ACC1EE36C8ED9B03 }}
           package: '*.jar'
