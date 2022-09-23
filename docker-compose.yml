@@ -1,0 +1,6 @@
+version: "2"
+service:
+  compreshivedoctor: 
+      build: .
+      ports:
+        - 80:80
